@@ -13,5 +13,8 @@ Include Symbols: Include symbols in the generated password.
 ## Screenshots
 
 ![App Screenshot](S1.jpg)
-(Home%20page.jpg)
+![App Screenshot](S2.jpg)
+![App Screenshot](S3.jpg)
+![App Screenshot](S4.jpg)
+![App Screenshot](S5.jpg)
 
